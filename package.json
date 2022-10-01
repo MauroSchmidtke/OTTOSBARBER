@@ -1,0 +1,24 @@
+{
+  "name": "33025---schmidtke-mauro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauroSchmidtke/OTTOS_BARBER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauroSchmidtke/OTTOS_BARBER/issues"
+  },
+  "homepage": "https://github.com/MauroSchmidtke/OTTOS_BARBER#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
