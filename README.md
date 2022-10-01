@@ -1,0 +1,2 @@
+# OTTOSBARBER
+mi primer repositorio
